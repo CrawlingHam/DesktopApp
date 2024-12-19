@@ -4,7 +4,7 @@ This is the README for your extension "gitlogger". After writing up a brief desc
 
 ## Features
 
-![Recording2024-12-19110531-Trim-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/f1c948c9-bf15-4a47-860c-14293c8e40f5)
+[](https://github.com/user-attachments/assets/a052db8d-3f4c-4dcd-a4a7-1ea1f69a4ee1)
 
 Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
 
