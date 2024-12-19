@@ -4,7 +4,6 @@ This is the README for your extension "gitlogger". After writing up a brief desc
 
 ## Features
 
-[](https://s7.ezgif.com/tmp/ezgif-7-2eb75540c5.mp4)
 [](https://github.com/user-attachments/assets/a052db8d-3f4c-4dcd-a4a7-1ea1f69a4ee1)
 
 Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
