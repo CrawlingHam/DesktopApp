@@ -4,7 +4,7 @@ GitGitter is a powerful Visual Studio Code extension designed to enhance your co
 
 Features
 
-(*.Detailed Commit Logs)
+* Detailed Commit Logs
 
 Track commit messages, authors, timestamps, and associated file changes.
 
