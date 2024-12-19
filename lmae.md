@@ -1,6 +1,6 @@
 # GitGitter
 
-GitGitter is a powerful Visual Studio Code extension designed to enhance your coding workflow by providing detailed tracking and logging of code changes. With GitGitter, you can monitor your Git commits, capture relevant metadata, and organize this information in a structured manner. Whether you're a solo developer or part of a team, GitGitter ensures that you stay productive, organized, and well-informed about your project's history.
+GitGitter is designed to enhance your coding workflow by automating the git commit process as well as providing detailed tracking and logging of code changes. With GitGitter, you can monitor your Git commits, capture relevant metadata, and organize this information in a structured manner. Whether you're a solo developer or part of a team, GitGitter ensures that you stay productive, organized, and well-informed about your project's history.
 
 ## Features
 
