@@ -4,6 +4,9 @@ This is the README for your extension "gitlogger". After writing up a brief desc
 
 ## Features
 
+(https://s7.ezgif.com/tmp/ezgif-7-2eb75540c5.mp4)
+
+
 Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
 
 For example if there is an image subfolder under your extension project workspace:
@@ -21,6 +24,9 @@ If you have any requirements or dependencies, add a section describing those and
 Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
 
 For example:
+
+
+
 
 This extension contributes the following settings:
 
