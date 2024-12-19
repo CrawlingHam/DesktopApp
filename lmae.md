@@ -1,4 +1,4 @@
-# GitGitter
+# GitLogger
 
 GitGitter is designed to enhance your coding workflow by automating the git commit process as well as providing detailed tracking and logging of code changes. With GitGitter, you can monitor your Git commits, capture relevant metadata, and organize this information in a structured manner. Whether you're a solo developer or part of a team, GitGitter ensures that you stay productive, organized, and well-informed about your project's history.
 ##
@@ -23,9 +23,9 @@ GitGitter is designed to enhance your coding workflow by automating the git comm
 
 GitGitter requires access to specific data to function effectively:
 
+* **Git Token:** Used to create and update a single repository for commit tracking purposes.
 * **GitHub Username:** Used to identify the user and associate commits with their GitHub profile.
 * **Remote Repository and Files:** Accessed to fetch commit metadata and file change details.
-* **Git Token:** Used to create and update a single repository for commit tracking purposes.
 * **Local Repository:** Analyzed to retrieve commit logs and changes in the current working folder.
 
 **What GitGitter Does with This Data:**
@@ -39,6 +39,7 @@ GitGitter requires access to specific data to function effectively:
     * File names and paths.
     * Links to the remote repository's commit history.
     * Commit metadata such as timestamps and authors.
+    * If the changed files exist in the remote repository, the updated repository includes the links to the files inside the remote repository
 
 **Data Stored in the Dedicated Repository:**
 
@@ -58,9 +59,11 @@ GitGitter requires access to specific data to function effectively:
 ##
 ## Getting Started
 
-1. Open a Git-enabled project in Visual Studio Code.
-2. Use GitGitter commands from the Command Palette (Ctrl+Shift+P).
-3. Follow the prompts to configure your GitHub token and repository.
+1. Open a project folder in Visual Studio Code.
+2. Initalize a local git repository.
+3. Connect your local repository with a remote repository .
+4. Use GitGitter commands from the Command Palette (Ctrl+Shift+P).
+5. Follow the prompts to configure your GitHub token and repository.
 
 **[Insert GIF/Video Demo: Demonstrate the initial configuration and first commit tracking]**
 ##
