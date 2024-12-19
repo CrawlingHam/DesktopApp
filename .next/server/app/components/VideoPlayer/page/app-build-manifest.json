@@ -1,0 +1,33 @@
+{
+  "pages": {
+    "/components/VideoPlayer/page": [
+      "static/chunks/_2b2515._.js",
+      "static/chunks/app_favicon_ico_mjs_5930e7._.js",
+      "static/chunks/app_9dca96._.css",
+      "static/chunks/_f2772d._.js",
+      "static/chunks/node_modules_next_467952._.js",
+      "static/chunks/node_modules_@mui_material_92ca31._.js",
+      "static/chunks/node_modules_@mui_system_esm_af6781._.js",
+      "static/chunks/d9ef2_@firebase_auth_dist_esm2017_43236d._.js",
+      "static/chunks/node_modules_@firebase_firestore_dist_index_esm2017_c2fcaa.js",
+      "static/chunks/node_modules_4a08a7._.js",
+      "static/chunks/app_layout_tsx_36ac26._.js",
+      "static/chunks/app_d85d42._.js",
+      "static/chunks/node_modules_next_dist_compiled_ef7ba4._.js",
+      "static/chunks/node_modules_entities_lib_esm_301b9a._.js",
+      "static/chunks/node_modules_parse5_dist_56095e._.js",
+      "static/chunks/node_modules_@mui_material_82db5f._.js",
+      "static/chunks/node_modules_7f20c7._.js",
+      "static/chunks/node_modules_react-player_lib_Preview_d787cc.js",
+      "static/chunks/app_components_VideoPlayer_page_tsx_1746e0._.js",
+      "static/chunks/node_modules_next_dist_compiled_react-dom_1f56dc._.js",
+      "static/chunks/node_modules_next_dist_compiled_107ce8._.js",
+      "static/chunks/node_modules_next_dist_client_9bb038._.js",
+      "static/chunks/node_modules_next_dist_d09de6._.js",
+      "static/chunks/node_modules_@swc_helpers_cjs_00636a._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_ce799c._.js",
+      "static/chunks/_c4c472._.js",
+      "static/chunks/_cb9de2._.js"
+    ]
+  }
+}

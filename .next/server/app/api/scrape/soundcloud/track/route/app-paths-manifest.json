@@ -1,0 +1,3 @@
+{
+  "/api/scrape/soundcloud/track/route": "app/api/scrape/soundcloud/track/route.js"
+}
