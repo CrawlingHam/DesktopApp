@@ -2,7 +2,7 @@
 
 GitGitter is designed to enhance your coding workflow by automating the git commit process as well as providing detailed tracking and logging of code changes. With GitGitter, you can monitor your Git commits, capture relevant metadata, and organize this information in a structured manner. Whether you're a solo developer or part of a team, GitGitter ensures that you stay productive, organized, and well-informed about your project's history.
 ##
-## Features
+# Features
 
 * **Detailed Commit Logs**
   * Track commit messages, authors, timestamps, and associated file changes.
@@ -18,8 +18,8 @@ GitGitter is designed to enhance your coding workflow by automating the git comm
   * Keep a comprehensive overview of your development timeline.
 
 **[Insert GIF/Video Demo: Showcase detailed commit logs and task management in action]**
-
-## Data Collected and Usage
+##
+# Data Collected and Usage
 
 GitGitter requires access to specific data to function effectively:
 
@@ -47,48 +47,48 @@ GitGitter requires access to specific data to function effectively:
 * Commit IDs and their corresponding remote repository links.
 
 **[Insert GIF/Video Demo: Highlight how GitGitter creates and updates the dedicated repository]**
-
-## Installation
+##
+# Installation
 
 1. Open the Extensions view in Visual Studio Code (Ctrl+Shift+X).
 2. Search for "GitGitter".
 3. Click "Install".
 
 **[Insert GIF/Video Demo: Show the installation process and initial setup]**
-
-## Getting Started
+##
+# Getting Started
 
 1. Open a Git-enabled project in Visual Studio Code.
 2. Use GitGitter commands from the Command Palette (Ctrl+Shift+P).
 3. Follow the prompts to configure your GitHub token and repository.
 
 **[Insert GIF/Video Demo: Demonstrate the initial configuration and first commit tracking]**
-
-## Limitations
+##
+# Limitations
 
 * GitGitter will only create and update one dedicated repository for commit tracking.
 * It requires a GitHub token to push data to the repository.
 * Local repository access is necessary to retrieve commit and file change information.
-
-## Privacy and Security
+##
+# Privacy and Security
 
 GitGitter is designed with privacy and security in mind:
 
 * **Minimal Data Usage:** Only collects data necessary for commit tracking.
 * **Dedicated Repository:** All collected data is stored in a single repository created by the extension.
 * **Secure Access:** Uses your GitHub token to securely create and update repositories.
-
-## Support and Feedback
+##
+# Support and Feedback
 
 If you encounter any issues or have suggestions for improvement, please visit our GitHub Issues page.
 
 **[Insert GIF/Video Demo: Provide a walkthrough of submitting feedback or issues]**
-
-## License
+##
+# License
 
 This extension is licensed under the MIT License.
-
-## Release Notes
+##
+# Release Notes
 
 ### v1.0.0
 Initial release with core features including commit tracking, repository creation, and task log management.
